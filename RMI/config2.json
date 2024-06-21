@@ -1,0 +1,8 @@
+{
+    "ip": "127.0.0.1", 
+    "port": 4002,
+    "nombre":"Francisco",
+    "server": "http://localhost:4000",
+    "team": "Team B",
+    "rmi_server": "PYRONAME:example.central_log_server"
+}

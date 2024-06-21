@@ -1,0 +1,21 @@
+2024-06-20 19:42:21, 1718926941, ini, juego1, inicio-juego, 
+2024-06-20 19:42:21, 1718926941, ini, juego1, crea-jugador, Team B, Francisco
+2024-06-20 19:42:21, 1718926941, fin, juego1, crea-jugador, Team B, Francisco
+2024-06-20 19:42:21, 1718926941, ini, juego1, inicio-partida, 
+2024-06-20 19:42:21, 1718926941, fin, juego1, inicio-partida, 
+2024-06-20 19:42:21, [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:4002
+2024-06-20 19:42:21, [33mPress CTRL+C to quit[0m
+2024-06-20 19:42:21, 127.0.0.1 - - [20/Jun/2024 19:42:21] "GET /game_ready HTTP/1.1" 200 -
+2024-06-20 19:42:21, 1718926941, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-20 19:42:21, 1718926941, fin, juego1, lanza-dado, Team B, Francisco, 20
+2024-06-20 19:42:21, 127.0.0.1 - - [20/Jun/2024 19:42:21] "GET /your_turn HTTP/1.1" 200 -
+2024-06-20 19:42:21, 1718926941, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-20 19:42:21, 1718926941, fin, juego1, lanza-dado, Team B, Francisco, 28
+2024-06-20 19:42:21, 127.0.0.1 - - [20/Jun/2024 19:42:21] "GET /your_turn HTTP/1.1" 200 -
+2024-06-20 19:42:21, 1718926941, ini, juego1, lanza-dado, Team B, Francisco
+2024-06-20 19:42:21, 1718926941, fin, juego1, lanza-dado, Team B, Francisco, 39
+2024-06-20 19:42:21, 127.0.0.1 - - [20/Jun/2024 19:42:21] "GET /your_turn HTTP/1.1" 200 -
+2024-06-20 19:42:21, 1718926941, fin, juego1, inicio-partida, 
+2024-06-20 19:42:21, 1718926941, fin, juego1, inicio-juego, 
+2024-06-20 19:42:21, 127.0.0.1 - - [20/Jun/2024 19:42:21] "POST /game_ended HTTP/1.1" 200 -
